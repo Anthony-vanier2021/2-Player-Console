@@ -1,0 +1,4 @@
+#ifndef GAME_CHILD_DUO_H
+#define GAME_CHILD_DUO_H
+
+#endif //GAME_CHILD_DUO_H
